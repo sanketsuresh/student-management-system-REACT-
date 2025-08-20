@@ -6,7 +6,7 @@ This project allows you to **add, view, and manage student records** with a clea
 ---
 
 ## 🚀 Project Demo
-👉 **[Project Live Link (Optional)]** *(Add after deployment)*  
+
 👉 **[GitHub Repository](https://github.com/sanketsuresh/student-management-system-REACT-)**
 
 ---
